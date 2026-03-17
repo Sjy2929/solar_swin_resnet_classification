@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/gitenavnath/solar-augmented-dataset/data
 
 5.代码具体运行
 
-5.1.安装依赖
+5.1 安装依赖
 pip install -r requirements.txt
 
 5.2 训练、评估和预测代码操作见run_code.txt
