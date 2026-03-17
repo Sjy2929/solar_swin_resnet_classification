@@ -1,0 +1,11 @@
+
+    ===================
+    Complete Evaluation
+    ===================
+    
+    Test Loss: 0.2798
+    Test Accuracy: 0.9057
+    Cohen's Kappa: 0.8858
+    Macro-Average AUC: 0.9870
+    mAP (Mean Average Precision): 0.9514
+    
